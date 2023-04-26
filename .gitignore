@@ -3,3 +3,5 @@ WeatherPy/api_keys.py
 .DS_Store
 VacationPy/.DS_Store
 WeatherPy/.DS_Store
+VacationPy/__pycache__
+WeatherPy/__pycache__
